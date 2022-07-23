@@ -2,11 +2,9 @@
 A Simple Bayesian Gender Prediction System
 ## `引言`
 
-**根据朴素贝叶斯分类算法而作的性别判定系统**
+**根据朴素贝叶斯分类算法而作的性别预测系统**
 
 **数据来源：网络爬虫**
-
-**链接: [train.txt](https://www.aliyundrive.com/s/jPTWyWZ7hwt)**
 
 ## `完整代码`
 
