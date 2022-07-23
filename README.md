@@ -1,5 +1,6 @@
-# GenderPrediction
-A Simple Bayesian Gender Prediction System
+# **NaiveBayesGenderPrediction**
+This is a Simple Bayesian Gender Prediction System
+
 ## `引言`
 
 根据朴素贝叶斯分类算法而作的性别预测系统
