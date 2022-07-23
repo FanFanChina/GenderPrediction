@@ -1,14 +1,10 @@
-# **NaiveBayesGenderPrediction**
-This is a Simple Bayesian Gender Prediction System
-
-## `引言`
-
+## Naive-Bayes-Gender-Prediction
+**This is a Simple Naive Bayes Gender Prediction System.**
+## 引言
 根据朴素贝叶斯分类算法而作的性别预测系统
 
 数据来源：网络爬虫
-
-
-## `实例测试结果`
+## 实例测试结果
 
 样本数据：男50人，女50人
 
@@ -18,7 +14,7 @@ This is a Simple Bayesian Gender Prediction System
 
 综合正确率：85.78%
 
-## `感谢名录`
+## 感谢名录
 
 <font size=5 color=#D1DAF2>**Do_r**</font> 　　　　　　　<font size=5 color=#0E0E0E>**Arthur**</font>　　　　　　　　　<font size=5 color=#007CFF>**阳**</font>
 
