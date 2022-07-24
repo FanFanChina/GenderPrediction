@@ -1,4 +1,4 @@
-## Naive-Bayes-Gender-Prediction
+## Naive Bayes Gender Prediction
 **This is a Simple Naive Bayes Gender Prediction System.**
 ## 引言
 根据朴素贝叶斯分类算法而作的性别预测系统
